@@ -8,7 +8,7 @@ module "project" {
 }
 
 module "repositories" {
-  source = "../"
+  source = "registry.terraform.io/telekom-mms/repository/azuredevops"
 
   git_repository = {
     "repo-mms-github" = {
