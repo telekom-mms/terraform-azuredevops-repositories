@@ -1,19 +1,21 @@
 variable "git_repository" {
   type        = any
   default     = {}
-  description = "resource definition, default settings are defined within locals and merged with var settings"
+  description = "Resource definition, default settings are defined within locals and merged with var settings. For more information look at [Outputs](#Outputs)."
 }
 
 locals {
   default = {
     # resource definition
     git_repository = {
-      name = ""
+      name           = ""
+      default_branch = "refs/heads/main" // defined default
+      project_id     = ""
       initialization = {
         init_type             = "Uninitialized"
-        source_type           = ""
-        source_url            = ""
-        service_connection_id = ""
+        source_type           = null
+        source_url            = null
+        service_connection_id = null
       }
     }
   }
