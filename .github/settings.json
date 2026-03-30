@@ -1,0 +1,14 @@
+{
+  "repos": {
+    "description": "A Terraform module that manages the azuredevops repository resources from the azuredevops provider.",
+    "visibility": "public",
+    "default_branch": "main",
+    "homepage": "https://telekom-mms.github.io/terraform-azuredevops-repositories",
+    "topics": [
+      "azure",
+      "azuredevops",
+      "git-repository",
+      "terraform"
+    ]
+  }
+}
