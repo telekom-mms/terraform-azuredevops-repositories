@@ -1,12 +1,31 @@
 # Changelog
 
-## [0.1.0](https://github.com/T-Systems-MMS/terraform-azuredevops-repositories/tree/0.1.0) (2022-02-17)
+## [1.0.0](https://github.com/telekom-mms/terraform-azuredevops-repositories/tree/1.0.0) (2026-03-30)
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azuredevops-repositories/compare/0.0.1...0.1.0)
+[Full Changelog](https://github.com/telekom-mms/terraform-azuredevops-repositories/compare/0.1.0...1.0.0)
 
-## [0.0.1](https://github.com/T-Systems-MMS/terraform-azuredevops-repositories/tree/0.0.1) (2022-02-07)
+**Merged pull requests:**
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azuredevops-repositories/compare/db4e6739254d5c1745487e4c3611ec4fb7cc5258...0.0.1)
+- add linting settings [\#24](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/24) ([mikaEz](https://github.com/mikaEz))
+- chore\(config\): standardize renovate.json and update repository topics [\#22](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/22) ([mikaEz](https://github.com/mikaEz))
+- refactor module [\#21](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/21) ([mikaEz](https://github.com/mikaEz))
+- Update actions/checkout action to v3.6.0 [\#13](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/13) ([renovate[bot]](https://github.com/apps/renovate))
+- Update Terraform azuredevops to v0.11.0 [\#11](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/11) ([renovate[bot]](https://github.com/apps/renovate))
+- Update hashicorp/setup-terraform action to v2 [\#10](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/10) ([renovate[bot]](https://github.com/apps/renovate))
+- Update creyD/prettier\_action action to v4 [\#9](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/9) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action [\#8](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/8) ([renovate[bot]](https://github.com/apps/renovate))
+- Update github-actions-x/commit action to v2.9 [\#7](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
+- Update Terraform hashicorp/terraform to ~\> 1.2.0 [\#3](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/3) ([renovate[bot]](https://github.com/apps/renovate))
+- Update Terraform azuredevops to v0.2.2 [\#2](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
+- add renovate config [\#1](https://github.com/telekom-mms/terraform-azuredevops-repositories/pull/1) ([mikaEz](https://github.com/mikaEz))
+
+## [0.1.0](https://github.com/telekom-mms/terraform-azuredevops-repositories/tree/0.1.0) (2022-02-17)
+
+[Full Changelog](https://github.com/telekom-mms/terraform-azuredevops-repositories/compare/0.0.1...0.1.0)
+
+## [0.0.1](https://github.com/telekom-mms/terraform-azuredevops-repositories/tree/0.0.1) (2022-02-07)
+
+[Full Changelog](https://github.com/telekom-mms/terraform-azuredevops-repositories/compare/db4e6739254d5c1745487e4c3611ec4fb7cc5258...0.0.1)
 
 
 
